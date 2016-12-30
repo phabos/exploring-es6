@@ -1,3 +1,6 @@
+# Aim
+Setting up a project with webpack / playing with es6 module
+
 # Ref
 https://medium.com/@dabit3/beginner-s-guide-to-webpack-b1f1a3638460#.k4gasi54u
 
